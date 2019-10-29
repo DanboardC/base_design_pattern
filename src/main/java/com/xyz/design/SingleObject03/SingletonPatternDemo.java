@@ -1,4 +1,4 @@
-package SingleObject03;
+package com.xyz.design.SingleObject03;
 
 public class SingletonPatternDemo {
 
