@@ -1,4 +1,4 @@
-package com.xyz.design.factory;
+package com.xyz.design.factory01;
 
 public class Rectangle implements  Shape {
     @Override
